@@ -1,2 +1,2 @@
-# Giganci
+# AI
 moje projekty
